@@ -1,5 +1,5 @@
-3EF57D9F14676534FEF44D949DE74CA0
-2.81
+D8A6F6C88033BB0A2894BD26E0D5E4E4
+2.83
 http://patch.artificialgamers.com/ArtificialLauncher/ArtificialLauncher.exe
 http://www.dropbox.com/scl/fi/yxaj1j8kyk07ql6jb2wz5/ArtificialLauncher.exe?rlkey=jeh4f440yd2vl633gvk8wq8yy&st=shcy0zni&dl=1
 https://patch.artificialgamers.com/ArkDlcs/
