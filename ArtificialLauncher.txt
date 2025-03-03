@@ -1,5 +1,5 @@
 E5978E30A8DAE7D3D2D4ADED19DB55BA
 2.81
-https://www.dropbox.com/scl/fi/yxaj1j8kyk07ql6jb2wz5/ArtificialLauncher.exe?rlkey=jeh4f440yd2vl633gvk8wq8yy&st=shcy0zni&dl=1
+http://www.dropbox.com/scl/fi/yxaj1j8kyk07ql6jb2wz5/ArtificialLauncher.exe?rlkey=jeh4f440yd2vl633gvk8wq8yy&st=shcy0zni&dl=1
 https://github.com/ownprox/ArtificialLauncherUpdate/raw/refs/heads/main/ArtificialLauncher.exe
 https://patch.artificialgamers.com/ArkDlcs/
